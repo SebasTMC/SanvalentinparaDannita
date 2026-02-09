@@ -68,7 +68,7 @@ Y si alguna vez hay peleas o discusiones, que nunca se nos olvide lo más import
 Cuanto más tiempo estoy contigo, más te amo.
 Y no hablo solo de amor bonito: hablo del amor que se queda, del que aprende, del que se esfuerza, del que no se rinde a la primera.
 
-Feliz 14 de febrero, Dhannita.
+Feliz 14 de febrero, Dannita.
 Gracias por existir, por quedarte, y por hacerme sentir que lo simple puede ser perfecto cuando es contigo.
 Ojalá este 2026 nos regale paz, risas, metas cumplidas y muchas razones para seguir eligiéndonos.
 
