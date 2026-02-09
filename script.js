@@ -54,7 +54,7 @@ function updateTimer(){
 // ==============================
 function buildMessage(days){
   return (
-`No todo inició fácil, no todo inició perfecto… pero hace ${days} días que empezamos a hablar esa primera vez.
+`Queriada Dannita No todo inició fácil, no todo inició perfecto… pero hace ${days} días que empezamos a hablar esa primera vez.
 
 Desde entonces, sin hacer ruido, te fuiste quedando en mi rutina: en mis días buenos, en los pesados, en esos ratitos donde solo quiero respirar y sentir paz. Te has vuelto mi persona, mi día a día; y si pudiera elegir un lugar, sería a tu lado.
 
@@ -73,7 +73,7 @@ Gracias por existir, por quedarte, y por hacerme sentir que lo simple puede ser 
 Ojalá este 2026 nos regale paz, risas, metas cumplidas y muchas razones para seguir eligiéndonos.
 
 Con amor,
-Tovi`
+Tovi❤️`
   );
 }
 
