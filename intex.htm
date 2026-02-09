@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dhannita</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Pantalla de inicio -->
+  <div id="startOverlay" class="overlay">
+    <div class="overlayCard">
+      <div class="overlayTitle">Dhannita</div>
+      <div class="overlaySubtitle">Para la niña de mi corazón</div>
+      <button id="startBtn" class="startBtn">Toca para iniciar 💛</button>
+      <div class="overlayHint">Tip: presiona F11 para pantalla completa</div>
+    </div>
+  </div>
+
+  <!-- UNA sola carta -->
+  <main class="page">
+    <section class="loveCard">
+      <canvas id="c"></canvas>
+
+      <div class="content">
+        <header class="header">
+          <div class="name">Dhannita</div>
+          <div class="dedication">Para la niña de mi corazón:</div>
+        </header>
+
+        <p id="msg" class="msg"></p>
+
+        <div class="timer">
+          <div class="label">Desde el 18/12/2023 han pasado:</div>
+          <div id="time" class="time">—</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
